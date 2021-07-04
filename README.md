@@ -1,5 +1,5 @@
 # 青岛  
-<img src="img1.jpg" width = "200" height = "300" alt="" align=center />  
+<img src="img1" width = "200" height = "300" alt="" align=center />  
 
 ## 1 交通  
  1. 大航空公司 **非**早班机/早高铁 高铁停站少  
