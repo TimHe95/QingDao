@@ -1,4 +1,7 @@
 # 青岛  
+![IMG_4294](https://user-images.githubusercontent.com/18543932/124388245-a4dd8f00-dd14-11eb-9c7b-2027a49b30ac.JPG)  
+<img src="img1" width = "200" height = "300" alt="" align=center />  
+
 ## 1 交通  
  1. 大航空公司 **非**早班机/早高铁 高铁停站少  
  2. 青岛和北京之间的高铁班次很多，什么时间的都有，车程3.5～5小时不等  
