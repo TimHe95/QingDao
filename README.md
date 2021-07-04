@@ -1,6 +1,8 @@
 # 青岛  
 <img src="https://github.com/TimHe95/QingDao/blob/main/img1.JPG" width = "200" height = "270" alt="" align=center /> <img src="https://github.com/TimHe95/QingDao/blob/main/img2.PNG" width = "200" height = "270" alt="" align=center /> <img src="https://github.com/TimHe95/QingDao/blob/main/img3.PNG" width = "200" height = "270" alt="" align=center />
 
+距离上 **青岛站 > 青岛北 > 青岛机场**
+
 ## 1 交通  
  1. 大航空公司 **非**早班机/早高铁 高铁停站少  
  2. 青岛和北京之间的高铁班次很多，什么时间的都有，车程3.5～5小时不等  
